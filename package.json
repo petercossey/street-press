@@ -1,0 +1,13 @@
+{
+  "name": "scoop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Samuel Westen <Samuel.westen01@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.4"
+  },
+  "scripts": {
+    "go": "./node_modules/.bin/browser-sync start -s . -f '**/*'"
+  }
+}

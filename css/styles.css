@@ -1,0 +1,67 @@
+
+
+body {
+  background-color: #f2eaea;
+}
+
+h1, p {
+font-family: 'Jacques Francois', serif;
+font-weight: 300;
+}
+
+h2 {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 600;
+}
+
+img {
+  width: 100%;
+}
+
+header {
+  text-align: center;
+}
+
+article.main-center{
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+article.sm-center {
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.uppercase {
+  text-transform: uppercase;
+  font-size: 12px;
+  padding: 20px 0 40px 0;
+  margin-bottom: 40px;
+}
+
+@media screen and (min-width: 800px){
+  article.main-center {
+    width: 50%;
+  }
+
+  article.sm-center {
+    margin: 10px 0 0 0 ;
+    display: inline-block;
+    width: 33%;
+    float: left;
+  }
+
+  article.sm-center img {
+    width: 90%;
+  }
+
+  article.sm-center p {
+    width: 90%;
+    margin: 0 auto;
+    text-align: left;
+  }
+}
