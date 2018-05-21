@@ -1,6 +1,6 @@
-# The Scoop
+# Street Press
 
-An HTML/CSS exercise for internal training purposes.
+An web styleguide using a functional approach to CSS used for internal training purposes.
 
 ## Setup
 

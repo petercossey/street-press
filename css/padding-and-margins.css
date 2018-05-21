@@ -1,0 +1,28 @@
+.pad-all-1 {
+  padding: 20px;
+}
+
+.pad-all-label {
+  padding: 4px 6px;
+}
+
+.margin-all-0 { margin: 0; }
+.margin-all-05 { margin: 0.5rem; }
+.margin-all-1 { margin: 1rem; }
+.margin-all-2 { margin: 1.5rem; }
+.margin-all-3 { margin: 2rem; }
+.margin-all-4 { margin: 2.5rem; }
+
+.margin-top-0 { margin-top: 0; }
+.margin-top-05 { margin-top: 0.5rem; }
+.margin-top-1 { margin-top: 1rem; }
+.margin-top-2 { margin-top: 1.5rem; }
+.margin-top-3 { margin-top: 2rem; }
+.margin-top-4 { margin-top: 2.5rem; }
+
+.margin-bottom-0 { margin-bottom: 0; }
+.margin-bottom-05 { margin-bottom: 0.5rem; }
+.margin-bottom-1 { margin-bottom: 1rem; }
+.margin-bottom-2 { margin-bottom: 1.5rem; }
+.margin-bottom-3 { margin-bottom: 2rem; }
+.margin-bottom-4 { margin-bottom: 2.5rem; }

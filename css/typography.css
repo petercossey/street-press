@@ -1,0 +1,67 @@
+.scoop-typography * {
+  font-family: "Lora", Georgia, 'Times New Roman', Times, serif;
+  color: #000;
+}
+
+.scoop-typography h1 {
+  font-family: "Lora", Georgia, 'Times New Roman', Times, serif;
+}
+
+.scoop-typography h2,
+.scoop-typography h3,
+.scoop-typography h4,
+.scoop-typography h5,
+.scoop-typography h6 {
+  font-family: "Lato", Arial, Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+.scoop-typography p {
+  margin-top: 0;
+}
+
+.serif {
+  font-family: "Jacques Francois", Georgia, 'Times New Roman', Times, serif;
+}
+
+.sans-serif {
+  font-family: "Nunito Sans", Arial, Helvetica, sans-serif;
+}
+
+.fs-1 { font-size: 2.998rem }
+.fs-2 { font-size: 1.999rem }
+.fs-copy { font-size: 1rem }
+.fs-small { font-size: 0.707rem }
+
+.lh-copy { line-height: 1.4 }
+.lh-relaxed { line-height: 1.8 }
+
+@media (min-width: 600px) {
+  .fs-1 { font-size: 3.998rem }
+  .fs-2 { font-size: 1.999rem }
+  .fs-copy { font-size: 1rem }
+  .fs-small { font-size: 0.707rem }
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.scoop-link {
+  font-weight: 800;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #222;
+}
+
+.align-center { text-align: center }
+.align-justify { text-align: justify }
+
+.scoop-inverse {
+  color: #fff;
+  background: #222;
+}
